@@ -1,0 +1,1 @@
+MONGO_URI = "mongodb://localhost:27017/railway_qr_db"
