@@ -1,0 +1,501 @@
+fitting_id,fitting_type,age_months,last_inspection_gap_days,inspection_count,previous_defect_count,environment,load_category,current_condition,risk_level
+FIT_0001,Elastic Rail Clip,29,59,13,2,coastal,low,major,High
+FIT_0002,Rail Pad,58,43,13,1,coastal,low,minor,High
+FIT_0003,Liner,69,61,11,5,rural,low,minor,High
+FIT_0004,Elastic Rail Clip,45,17,12,6,urban,medium,minor,High
+FIT_0005,Liner,37,53,12,0,rural,high,minor,Medium
+FIT_0006,Liner,26,92,8,4,coastal,high,minor,High
+FIT_0007,Liner,42,109,7,2,coastal,high,good,High
+FIT_0008,Rail Pad,46,60,12,0,urban,low,minor,Medium
+FIT_0009,Liner,9,20,14,2,coastal,high,good,High
+FIT_0010,Liner,18,118,5,0,coastal,medium,good,Low
+FIT_0011,Rail Pad,23,108,3,6,coastal,medium,minor,High
+FIT_0012,Rail Pad,32,60,1,1,urban,low,good,Medium
+FIT_0013,Rail Pad,26,92,6,6,coastal,high,minor,High
+FIT_0014,Liner,18,94,8,4,coastal,high,major,High
+FIT_0015,Liner,20,43,14,0,urban,high,major,High
+FIT_0016,Elastic Rail Clip,8,82,3,1,urban,high,good,Low
+FIT_0017,Liner,35,15,7,0,coastal,low,major,High
+FIT_0018,Rail Pad,29,30,15,2,urban,medium,good,Medium
+FIT_0019,Liner,31,119,1,3,urban,high,major,High
+FIT_0020,Elastic Rail Clip,26,99,4,0,urban,low,minor,Medium
+FIT_0021,Rail Pad,29,103,15,4,coastal,high,good,High
+FIT_0022,Elastic Rail Clip,33,66,4,5,rural,high,good,High
+FIT_0023,Rail Pad,65,109,1,0,urban,low,good,High
+FIT_0024,Elastic Rail Clip,29,76,5,6,urban,low,minor,High
+FIT_0025,Liner,49,111,8,6,rural,low,good,High
+FIT_0026,Liner,9,106,12,4,urban,medium,major,High
+FIT_0027,Rail Pad,61,53,12,3,urban,high,good,High
+FIT_0028,Liner,8,72,14,5,urban,high,minor,High
+FIT_0029,Liner,46,44,2,1,rural,medium,good,Medium
+FIT_0030,Elastic Rail Clip,22,20,4,0,urban,low,good,Low
+FIT_0031,Elastic Rail Clip,9,39,10,4,coastal,medium,major,High
+FIT_0032,Elastic Rail Clip,63,95,14,3,rural,low,major,High
+FIT_0033,Liner,67,96,5,1,urban,high,minor,High
+FIT_0034,Liner,64,96,9,1,coastal,low,major,High
+FIT_0035,Rail Pad,12,74,6,4,coastal,low,major,High
+FIT_0036,Elastic Rail Clip,59,20,8,1,coastal,low,good,High
+FIT_0037,Elastic Rail Clip,8,72,6,4,coastal,medium,minor,High
+FIT_0038,Liner,10,21,11,1,urban,low,major,High
+FIT_0039,Rail Pad,66,36,7,3,rural,high,good,High
+FIT_0040,Liner,39,111,14,6,rural,low,good,High
+FIT_0041,Rail Pad,12,35,12,3,coastal,low,minor,Medium
+FIT_0042,Elastic Rail Clip,46,103,15,0,rural,low,good,Medium
+FIT_0043,Liner,8,87,10,0,urban,low,major,High
+FIT_0044,Rail Pad,45,115,5,0,urban,low,minor,Medium
+FIT_0045,Liner,66,50,15,3,coastal,high,major,High
+FIT_0046,Liner,49,30,9,3,rural,medium,good,High
+FIT_0047,Liner,67,94,13,6,urban,high,major,High
+FIT_0048,Liner,70,119,7,5,rural,high,major,High
+FIT_0049,Rail Pad,56,103,14,3,urban,medium,minor,High
+FIT_0050,Elastic Rail Clip,52,111,4,3,coastal,high,major,High
+FIT_0051,Elastic Rail Clip,72,59,2,4,coastal,low,minor,High
+FIT_0052,Elastic Rail Clip,64,46,14,2,urban,medium,major,High
+FIT_0053,Rail Pad,7,19,13,2,urban,medium,good,Medium
+FIT_0054,Elastic Rail Clip,65,73,14,2,coastal,low,minor,High
+FIT_0055,Liner,66,46,5,4,urban,medium,good,High
+FIT_0056,Liner,67,21,13,3,urban,high,good,High
+FIT_0057,Elastic Rail Clip,64,102,14,1,urban,high,minor,High
+FIT_0058,Liner,44,83,10,6,rural,high,major,High
+FIT_0059,Rail Pad,70,57,1,2,rural,medium,good,High
+FIT_0060,Liner,20,85,7,6,urban,medium,major,High
+FIT_0061,Rail Pad,6,81,8,0,coastal,medium,good,Low
+FIT_0062,Elastic Rail Clip,9,23,8,5,rural,medium,good,High
+FIT_0063,Rail Pad,25,100,3,5,coastal,high,minor,High
+FIT_0064,Rail Pad,22,77,14,6,urban,medium,major,High
+FIT_0065,Rail Pad,9,104,2,4,urban,low,good,High
+FIT_0066,Rail Pad,72,38,5,5,urban,low,major,High
+FIT_0067,Rail Pad,45,28,8,0,rural,low,major,High
+FIT_0068,Elastic Rail Clip,54,95,4,2,urban,high,major,High
+FIT_0069,Elastic Rail Clip,48,26,1,2,rural,medium,good,Medium
+FIT_0070,Elastic Rail Clip,41,65,7,4,urban,medium,good,High
+FIT_0071,Rail Pad,63,96,15,2,rural,medium,good,High
+FIT_0072,Rail Pad,67,62,13,6,urban,high,major,High
+FIT_0073,Elastic Rail Clip,70,113,10,5,urban,medium,good,High
+FIT_0074,Liner,47,44,11,2,coastal,high,major,High
+FIT_0075,Rail Pad,71,17,4,1,coastal,medium,minor,High
+FIT_0076,Elastic Rail Clip,16,63,15,0,rural,medium,good,Low
+FIT_0077,Rail Pad,58,80,9,4,coastal,low,good,High
+FIT_0078,Elastic Rail Clip,45,29,12,0,urban,medium,good,Medium
+FIT_0079,Liner,7,54,7,3,rural,medium,major,High
+FIT_0080,Elastic Rail Clip,47,116,4,4,urban,low,major,High
+FIT_0081,Rail Pad,18,22,5,6,coastal,medium,good,High
+FIT_0082,Rail Pad,29,44,4,3,urban,high,minor,Medium
+FIT_0083,Elastic Rail Clip,50,63,8,0,rural,medium,major,High
+FIT_0084,Rail Pad,28,72,14,5,rural,high,good,High
+FIT_0085,Rail Pad,18,78,11,3,urban,high,good,Medium
+FIT_0086,Elastic Rail Clip,59,101,3,5,urban,medium,minor,High
+FIT_0087,Liner,24,117,6,4,coastal,medium,good,High
+FIT_0088,Liner,67,120,15,0,coastal,medium,major,High
+FIT_0089,Elastic Rail Clip,33,65,11,1,urban,high,minor,Medium
+FIT_0090,Elastic Rail Clip,14,41,6,3,rural,high,minor,Medium
+FIT_0091,Elastic Rail Clip,13,86,8,4,urban,low,minor,High
+FIT_0092,Elastic Rail Clip,43,94,7,1,coastal,low,good,Medium
+FIT_0093,Rail Pad,72,69,12,5,rural,low,good,High
+FIT_0094,Rail Pad,12,62,9,5,rural,low,good,High
+FIT_0095,Liner,34,85,5,2,rural,high,major,High
+FIT_0096,Rail Pad,20,41,3,3,urban,low,major,High
+FIT_0097,Liner,22,96,6,2,urban,low,major,High
+FIT_0098,Liner,68,42,5,4,rural,low,minor,High
+FIT_0099,Liner,48,106,2,4,coastal,high,minor,High
+FIT_0100,Elastic Rail Clip,34,65,15,2,coastal,low,major,High
+FIT_0101,Elastic Rail Clip,33,106,3,6,coastal,high,major,High
+FIT_0102,Liner,53,15,12,5,urban,low,good,High
+FIT_0103,Elastic Rail Clip,34,22,14,4,rural,medium,minor,High
+FIT_0104,Rail Pad,30,59,11,3,urban,medium,minor,Medium
+FIT_0105,Elastic Rail Clip,10,106,1,2,coastal,high,major,High
+FIT_0106,Elastic Rail Clip,10,106,9,2,rural,high,major,High
+FIT_0107,Rail Pad,54,117,15,4,coastal,medium,good,High
+FIT_0108,Elastic Rail Clip,39,66,4,1,urban,high,good,Medium
+FIT_0109,Liner,48,70,10,0,rural,low,minor,Medium
+FIT_0110,Elastic Rail Clip,56,22,6,1,coastal,high,minor,High
+FIT_0111,Rail Pad,48,61,7,5,coastal,low,minor,High
+FIT_0112,Rail Pad,23,21,12,4,rural,high,major,High
+FIT_0113,Liner,42,116,4,3,coastal,high,minor,High
+FIT_0114,Liner,58,62,15,4,rural,low,good,High
+FIT_0115,Elastic Rail Clip,26,90,15,0,coastal,medium,minor,Medium
+FIT_0116,Rail Pad,28,109,11,6,urban,low,minor,High
+FIT_0117,Elastic Rail Clip,69,118,10,2,urban,high,minor,High
+FIT_0118,Elastic Rail Clip,62,78,13,1,urban,low,major,High
+FIT_0119,Liner,20,32,15,0,rural,low,major,High
+FIT_0120,Rail Pad,44,120,14,4,urban,high,good,High
+FIT_0121,Rail Pad,12,95,9,2,urban,medium,major,High
+FIT_0122,Elastic Rail Clip,28,64,14,5,coastal,high,major,High
+FIT_0123,Rail Pad,35,116,10,2,urban,low,major,High
+FIT_0124,Rail Pad,23,60,5,3,coastal,high,good,High
+FIT_0125,Liner,59,98,10,1,rural,low,good,High
+FIT_0126,Rail Pad,64,54,8,4,urban,medium,major,High
+FIT_0127,Rail Pad,7,107,5,5,rural,high,major,High
+FIT_0128,Rail Pad,9,93,9,5,coastal,high,minor,High
+FIT_0129,Elastic Rail Clip,45,38,3,6,coastal,low,good,High
+FIT_0130,Rail Pad,71,95,9,6,urban,medium,major,High
+FIT_0131,Rail Pad,64,78,15,5,rural,high,major,High
+FIT_0132,Liner,26,106,10,4,coastal,medium,minor,High
+FIT_0133,Elastic Rail Clip,64,17,3,5,rural,medium,minor,High
+FIT_0134,Elastic Rail Clip,31,39,10,6,coastal,low,major,High
+FIT_0135,Rail Pad,31,106,9,5,rural,medium,good,High
+FIT_0136,Rail Pad,59,112,2,5,coastal,medium,minor,High
+FIT_0137,Liner,10,66,8,4,coastal,medium,major,High
+FIT_0138,Elastic Rail Clip,72,57,4,5,urban,high,good,High
+FIT_0139,Liner,12,74,9,1,coastal,high,major,High
+FIT_0140,Elastic Rail Clip,54,34,14,5,urban,high,good,High
+FIT_0141,Liner,36,100,6,3,rural,low,minor,Medium
+FIT_0142,Rail Pad,47,118,15,2,urban,low,good,Medium
+FIT_0143,Elastic Rail Clip,49,110,2,2,urban,low,minor,High
+FIT_0144,Liner,27,70,4,6,coastal,high,good,High
+FIT_0145,Rail Pad,26,40,8,3,rural,low,major,High
+FIT_0146,Rail Pad,53,116,8,0,rural,high,major,High
+FIT_0147,Liner,32,47,9,5,rural,medium,good,High
+FIT_0148,Rail Pad,68,79,13,2,rural,high,minor,High
+FIT_0149,Elastic Rail Clip,58,58,5,1,urban,high,major,High
+FIT_0150,Rail Pad,17,69,5,6,rural,high,good,High
+FIT_0151,Elastic Rail Clip,71,35,7,3,rural,low,minor,High
+FIT_0152,Rail Pad,15,63,7,4,urban,low,minor,High
+FIT_0153,Elastic Rail Clip,26,92,10,5,urban,medium,minor,High
+FIT_0154,Liner,65,32,2,1,urban,high,minor,High
+FIT_0155,Elastic Rail Clip,63,109,8,6,rural,low,good,High
+FIT_0156,Liner,36,18,9,6,urban,high,good,High
+FIT_0157,Liner,65,113,4,4,rural,high,good,High
+FIT_0158,Liner,49,78,14,6,coastal,low,good,High
+FIT_0159,Liner,65,66,5,2,coastal,high,minor,High
+FIT_0160,Elastic Rail Clip,47,109,12,5,coastal,medium,major,High
+FIT_0161,Liner,8,39,10,5,rural,medium,major,High
+FIT_0162,Elastic Rail Clip,48,55,11,2,coastal,medium,major,High
+FIT_0163,Elastic Rail Clip,30,71,11,2,coastal,low,minor,Medium
+FIT_0164,Liner,66,88,7,4,rural,high,major,High
+FIT_0165,Elastic Rail Clip,55,60,9,0,urban,high,minor,High
+FIT_0166,Liner,14,82,3,5,rural,low,good,High
+FIT_0167,Elastic Rail Clip,60,106,1,6,rural,medium,minor,High
+FIT_0168,Elastic Rail Clip,32,90,9,0,coastal,low,minor,Medium
+FIT_0169,Rail Pad,46,26,7,2,urban,low,good,Medium
+FIT_0170,Elastic Rail Clip,52,81,13,1,coastal,medium,good,High
+FIT_0171,Rail Pad,31,93,13,0,rural,high,major,High
+FIT_0172,Rail Pad,38,50,4,4,coastal,medium,minor,High
+FIT_0173,Liner,28,24,13,4,coastal,high,minor,High
+FIT_0174,Elastic Rail Clip,27,62,6,1,coastal,medium,major,High
+FIT_0175,Liner,19,110,15,3,coastal,high,major,High
+FIT_0176,Rail Pad,41,49,8,3,coastal,medium,good,Medium
+FIT_0177,Liner,8,44,8,6,coastal,high,minor,High
+FIT_0178,Rail Pad,72,40,11,6,urban,high,good,High
+FIT_0179,Liner,59,22,6,4,urban,high,good,High
+FIT_0180,Liner,12,87,8,1,urban,medium,major,High
+FIT_0181,Liner,63,53,9,2,rural,low,good,High
+FIT_0182,Liner,36,33,9,1,coastal,medium,minor,Medium
+FIT_0183,Rail Pad,52,104,6,1,urban,medium,minor,High
+FIT_0184,Rail Pad,69,68,3,2,urban,low,major,High
+FIT_0185,Rail Pad,15,99,1,3,coastal,medium,major,High
+FIT_0186,Elastic Rail Clip,6,16,12,0,rural,low,minor,Medium
+FIT_0187,Liner,67,67,7,2,rural,low,good,High
+FIT_0188,Elastic Rail Clip,14,110,6,3,coastal,low,good,Medium
+FIT_0189,Liner,18,68,10,3,rural,low,good,Medium
+FIT_0190,Elastic Rail Clip,22,35,8,3,coastal,high,major,High
+FIT_0191,Liner,67,93,9,3,rural,low,good,High
+FIT_0192,Liner,56,38,9,6,coastal,medium,major,High
+FIT_0193,Liner,45,66,2,1,rural,low,minor,Medium
+FIT_0194,Liner,32,49,10,4,rural,medium,minor,High
+FIT_0195,Elastic Rail Clip,23,52,3,0,urban,low,minor,Medium
+FIT_0196,Rail Pad,6,54,8,0,rural,high,good,Low
+FIT_0197,Elastic Rail Clip,28,65,2,5,urban,medium,good,High
+FIT_0198,Liner,57,17,3,6,coastal,low,major,High
+FIT_0199,Liner,16,74,9,4,rural,low,major,High
+FIT_0200,Elastic Rail Clip,55,22,14,5,rural,high,major,High
+FIT_0201,Liner,32,116,2,0,coastal,low,major,High
+FIT_0202,Elastic Rail Clip,66,102,9,6,rural,medium,major,High
+FIT_0203,Elastic Rail Clip,21,62,5,0,coastal,low,major,High
+FIT_0204,Elastic Rail Clip,63,116,6,3,coastal,medium,major,High
+FIT_0205,Liner,56,47,9,4,urban,medium,good,High
+FIT_0206,Rail Pad,28,38,2,4,urban,low,major,High
+FIT_0207,Elastic Rail Clip,69,16,4,2,coastal,medium,minor,High
+FIT_0208,Elastic Rail Clip,60,93,4,6,urban,low,major,High
+FIT_0209,Rail Pad,36,32,5,1,rural,low,minor,Medium
+FIT_0210,Liner,68,55,5,6,urban,high,minor,High
+FIT_0211,Rail Pad,63,68,12,5,rural,low,good,High
+FIT_0212,Liner,72,119,11,2,urban,medium,minor,High
+FIT_0213,Liner,52,58,9,1,coastal,low,good,High
+FIT_0214,Liner,36,88,7,6,rural,high,major,High
+FIT_0215,Rail Pad,72,33,2,0,rural,medium,good,High
+FIT_0216,Rail Pad,34,78,3,2,urban,medium,minor,Medium
+FIT_0217,Rail Pad,40,117,11,5,urban,low,good,High
+FIT_0218,Elastic Rail Clip,10,35,5,6,urban,low,major,High
+FIT_0219,Liner,58,79,5,3,urban,low,minor,High
+FIT_0220,Rail Pad,17,61,14,1,urban,high,major,High
+FIT_0221,Elastic Rail Clip,42,113,4,2,rural,high,minor,Medium
+FIT_0222,Elastic Rail Clip,44,117,8,4,rural,medium,major,High
+FIT_0223,Elastic Rail Clip,22,72,14,3,rural,medium,major,High
+FIT_0224,Elastic Rail Clip,23,25,5,4,coastal,medium,good,High
+FIT_0225,Liner,7,90,6,0,coastal,medium,good,Low
+FIT_0226,Elastic Rail Clip,72,112,2,3,rural,high,good,High
+FIT_0227,Rail Pad,34,116,11,3,urban,high,good,Medium
+FIT_0228,Liner,69,51,3,4,urban,medium,major,High
+FIT_0229,Rail Pad,50,21,14,0,rural,medium,minor,High
+FIT_0230,Liner,45,85,9,5,coastal,medium,major,High
+FIT_0231,Liner,18,16,5,0,urban,medium,major,High
+FIT_0232,Liner,41,95,10,2,coastal,low,minor,Medium
+FIT_0233,Rail Pad,65,41,1,6,urban,medium,major,High
+FIT_0234,Rail Pad,16,16,12,2,rural,low,minor,Medium
+FIT_0235,Rail Pad,58,26,3,5,urban,medium,major,High
+FIT_0236,Rail Pad,14,40,15,0,coastal,medium,good,Low
+FIT_0237,Rail Pad,53,42,11,4,rural,low,good,High
+FIT_0238,Liner,15,40,5,0,rural,low,good,Low
+FIT_0239,Elastic Rail Clip,48,50,12,1,rural,high,good,Medium
+FIT_0240,Liner,7,32,10,6,coastal,low,major,High
+FIT_0241,Elastic Rail Clip,9,113,12,0,coastal,low,major,High
+FIT_0242,Rail Pad,64,16,6,3,rural,high,good,High
+FIT_0243,Elastic Rail Clip,24,68,7,5,coastal,medium,minor,High
+FIT_0244,Liner,10,90,7,3,urban,high,major,High
+FIT_0245,Liner,72,81,7,2,coastal,high,minor,High
+FIT_0246,Liner,15,118,10,6,rural,low,minor,High
+FIT_0247,Elastic Rail Clip,70,90,11,6,rural,high,major,High
+FIT_0248,Liner,70,49,7,4,rural,low,good,High
+FIT_0249,Rail Pad,29,63,6,2,coastal,high,major,High
+FIT_0250,Liner,32,66,12,2,urban,high,major,High
+FIT_0251,Elastic Rail Clip,71,24,4,1,rural,high,major,High
+FIT_0252,Liner,8,99,7,4,coastal,low,good,High
+FIT_0253,Rail Pad,33,17,4,4,rural,medium,minor,High
+FIT_0254,Elastic Rail Clip,48,94,10,6,urban,medium,major,High
+FIT_0255,Rail Pad,23,70,15,1,rural,medium,good,Low
+FIT_0256,Rail Pad,43,39,9,2,urban,medium,minor,Medium
+FIT_0257,Elastic Rail Clip,66,35,8,4,rural,high,minor,High
+FIT_0258,Elastic Rail Clip,62,115,1,4,coastal,low,major,High
+FIT_0259,Rail Pad,39,90,12,4,coastal,medium,minor,High
+FIT_0260,Elastic Rail Clip,52,107,9,2,urban,medium,minor,High
+FIT_0261,Liner,48,99,12,0,coastal,medium,major,High
+FIT_0262,Liner,43,103,15,5,urban,high,good,High
+FIT_0263,Elastic Rail Clip,71,36,7,0,rural,high,minor,High
+FIT_0264,Liner,72,52,10,2,coastal,medium,good,High
+FIT_0265,Elastic Rail Clip,24,67,8,0,coastal,medium,major,High
+FIT_0266,Liner,62,93,13,0,urban,medium,major,High
+FIT_0267,Liner,69,60,9,5,rural,medium,major,High
+FIT_0268,Rail Pad,37,19,5,2,rural,low,good,Medium
+FIT_0269,Liner,64,41,5,3,urban,medium,major,High
+FIT_0270,Liner,34,40,7,2,urban,high,minor,Medium
+FIT_0271,Elastic Rail Clip,62,120,8,2,urban,low,minor,High
+FIT_0272,Liner,30,70,9,5,rural,medium,major,High
+FIT_0273,Elastic Rail Clip,57,103,10,5,urban,medium,major,High
+FIT_0274,Rail Pad,17,16,11,0,rural,medium,minor,Medium
+FIT_0275,Liner,30,82,11,6,rural,low,major,High
+FIT_0276,Rail Pad,17,114,13,1,urban,low,good,Low
+FIT_0277,Liner,36,40,7,6,coastal,medium,minor,High
+FIT_0278,Rail Pad,69,23,6,0,rural,low,major,High
+FIT_0279,Rail Pad,7,82,5,5,urban,high,minor,High
+FIT_0280,Rail Pad,36,103,12,0,rural,high,good,Medium
+FIT_0281,Liner,6,116,10,2,rural,high,good,Medium
+FIT_0282,Liner,58,42,13,3,rural,medium,major,High
+FIT_0283,Rail Pad,38,20,15,0,coastal,medium,major,High
+FIT_0284,Rail Pad,20,60,3,2,urban,low,minor,Medium
+FIT_0285,Liner,7,99,6,6,coastal,high,minor,High
+FIT_0286,Rail Pad,18,25,12,3,rural,high,good,Medium
+FIT_0287,Rail Pad,10,99,2,6,urban,medium,minor,High
+FIT_0288,Liner,34,89,14,6,coastal,medium,good,High
+FIT_0289,Liner,42,37,13,5,coastal,high,major,High
+FIT_0290,Liner,6,120,7,1,coastal,high,major,High
+FIT_0291,Elastic Rail Clip,19,26,2,3,rural,high,major,High
+FIT_0292,Liner,62,47,5,1,rural,high,minor,High
+FIT_0293,Liner,29,76,12,5,rural,low,major,High
+FIT_0294,Elastic Rail Clip,41,51,15,6,coastal,medium,minor,High
+FIT_0295,Rail Pad,26,54,7,2,coastal,low,good,Medium
+FIT_0296,Rail Pad,15,30,9,1,coastal,medium,major,High
+FIT_0297,Elastic Rail Clip,46,105,12,1,coastal,medium,major,High
+FIT_0298,Elastic Rail Clip,68,69,8,6,rural,high,major,High
+FIT_0299,Liner,70,108,10,3,urban,high,good,High
+FIT_0300,Elastic Rail Clip,36,66,14,0,urban,low,minor,Medium
+FIT_0301,Rail Pad,7,82,3,3,urban,medium,minor,Medium
+FIT_0302,Liner,31,48,7,1,rural,high,good,Medium
+FIT_0303,Rail Pad,35,27,14,5,rural,medium,major,High
+FIT_0304,Elastic Rail Clip,14,119,15,3,urban,low,good,Medium
+FIT_0305,Liner,22,80,11,4,coastal,high,major,High
+FIT_0306,Rail Pad,64,77,13,3,rural,high,good,High
+FIT_0307,Liner,67,38,1,4,rural,high,minor,High
+FIT_0308,Rail Pad,25,39,4,5,urban,medium,good,High
+FIT_0309,Elastic Rail Clip,12,86,14,3,urban,medium,major,High
+FIT_0310,Liner,33,65,14,6,urban,high,minor,High
+FIT_0311,Rail Pad,16,61,9,0,urban,low,major,High
+FIT_0312,Rail Pad,29,58,3,2,urban,high,major,High
+FIT_0313,Liner,37,25,12,1,coastal,high,major,High
+FIT_0314,Liner,33,59,10,3,urban,medium,minor,Medium
+FIT_0315,Liner,36,120,10,5,coastal,low,good,High
+FIT_0316,Rail Pad,13,21,2,0,urban,low,major,High
+FIT_0317,Elastic Rail Clip,54,79,7,4,rural,high,minor,High
+FIT_0318,Elastic Rail Clip,32,53,8,0,urban,low,major,High
+FIT_0319,Rail Pad,8,15,14,1,rural,low,major,High
+FIT_0320,Liner,36,96,5,0,rural,high,major,High
+FIT_0321,Rail Pad,47,77,2,5,urban,medium,good,High
+FIT_0322,Rail Pad,36,88,15,5,urban,low,good,High
+FIT_0323,Liner,6,43,11,0,rural,medium,minor,Medium
+FIT_0324,Elastic Rail Clip,48,85,2,3,coastal,medium,minor,Medium
+FIT_0325,Rail Pad,26,103,2,4,urban,low,major,High
+FIT_0326,Elastic Rail Clip,17,99,1,1,coastal,low,major,High
+FIT_0327,Liner,26,85,6,4,urban,medium,minor,High
+FIT_0328,Liner,65,65,14,2,coastal,medium,good,High
+FIT_0329,Liner,65,48,4,4,urban,medium,minor,High
+FIT_0330,Liner,22,79,11,4,urban,medium,good,High
+FIT_0331,Rail Pad,40,115,4,4,urban,high,good,High
+FIT_0332,Rail Pad,61,82,10,5,coastal,low,good,High
+FIT_0333,Rail Pad,70,106,12,5,rural,low,minor,High
+FIT_0334,Rail Pad,52,91,2,4,coastal,low,major,High
+FIT_0335,Rail Pad,46,114,4,6,coastal,high,minor,High
+FIT_0336,Rail Pad,68,21,10,4,coastal,medium,good,High
+FIT_0337,Liner,14,117,3,5,coastal,high,good,High
+FIT_0338,Rail Pad,27,98,9,6,coastal,medium,major,High
+FIT_0339,Liner,40,75,3,6,rural,medium,major,High
+FIT_0340,Liner,70,88,7,5,urban,medium,minor,High
+FIT_0341,Elastic Rail Clip,18,120,4,4,coastal,low,major,High
+FIT_0342,Elastic Rail Clip,28,75,7,6,urban,low,good,High
+FIT_0343,Rail Pad,17,118,2,6,rural,low,good,High
+FIT_0344,Liner,55,74,15,3,urban,high,minor,High
+FIT_0345,Elastic Rail Clip,38,16,9,1,coastal,high,major,High
+FIT_0346,Elastic Rail Clip,12,82,3,2,coastal,low,minor,Medium
+FIT_0347,Elastic Rail Clip,31,80,4,5,rural,medium,major,High
+FIT_0348,Liner,7,22,15,0,rural,high,good,Low
+FIT_0349,Liner,21,38,8,6,coastal,low,minor,High
+FIT_0350,Liner,14,73,13,1,urban,medium,good,Low
+FIT_0351,Rail Pad,11,65,8,1,coastal,high,good,High
+FIT_0352,Rail Pad,40,66,3,3,coastal,low,minor,Medium
+FIT_0353,Liner,68,39,9,3,coastal,low,good,High
+FIT_0354,Elastic Rail Clip,49,41,3,0,coastal,low,minor,High
+FIT_0355,Liner,58,67,3,3,urban,high,major,High
+FIT_0356,Rail Pad,32,99,7,2,rural,low,minor,Medium
+FIT_0357,Liner,21,115,11,6,rural,low,minor,High
+FIT_0358,Rail Pad,67,95,15,0,coastal,medium,major,High
+FIT_0359,Elastic Rail Clip,43,66,4,1,coastal,low,minor,Medium
+FIT_0360,Liner,18,94,8,6,urban,low,good,High
+FIT_0361,Rail Pad,61,101,13,2,coastal,low,minor,High
+FIT_0362,Rail Pad,42,48,13,2,coastal,high,major,High
+FIT_0363,Liner,71,28,1,3,urban,low,major,High
+FIT_0364,Elastic Rail Clip,56,53,7,5,coastal,medium,major,High
+FIT_0365,Liner,45,28,10,6,coastal,low,major,High
+FIT_0366,Rail Pad,61,23,11,2,rural,high,major,High
+FIT_0367,Rail Pad,25,46,9,3,coastal,medium,good,Medium
+FIT_0368,Liner,62,62,11,2,coastal,medium,major,High
+FIT_0369,Elastic Rail Clip,10,28,5,4,urban,medium,good,High
+FIT_0370,Liner,8,99,10,2,rural,high,minor,Medium
+FIT_0371,Liner,23,23,8,3,coastal,low,major,High
+FIT_0372,Rail Pad,11,57,7,3,coastal,low,good,Medium
+FIT_0373,Elastic Rail Clip,40,95,5,1,urban,high,good,Medium
+FIT_0374,Elastic Rail Clip,15,72,12,0,urban,high,minor,Medium
+FIT_0375,Rail Pad,29,100,7,4,rural,high,minor,High
+FIT_0376,Elastic Rail Clip,70,50,2,4,rural,low,major,High
+FIT_0377,Liner,69,43,7,5,coastal,low,good,High
+FIT_0378,Rail Pad,33,85,6,2,coastal,medium,major,High
+FIT_0379,Liner,50,87,5,3,rural,medium,minor,High
+FIT_0380,Elastic Rail Clip,12,116,8,4,coastal,high,good,High
+FIT_0381,Liner,70,82,2,0,coastal,high,major,High
+FIT_0382,Elastic Rail Clip,25,37,7,6,rural,low,major,High
+FIT_0383,Elastic Rail Clip,52,27,14,1,rural,medium,minor,High
+FIT_0384,Rail Pad,12,87,9,0,urban,high,major,High
+FIT_0385,Elastic Rail Clip,15,110,11,4,urban,high,major,High
+FIT_0386,Rail Pad,63,120,15,5,urban,low,major,High
+FIT_0387,Elastic Rail Clip,7,22,12,6,urban,high,minor,High
+FIT_0388,Liner,23,95,11,0,rural,high,major,High
+FIT_0389,Rail Pad,65,50,1,0,rural,high,good,High
+FIT_0390,Elastic Rail Clip,36,30,12,3,coastal,low,good,Medium
+FIT_0391,Rail Pad,19,28,8,1,rural,low,minor,Medium
+FIT_0392,Liner,27,88,14,6,coastal,low,major,High
+FIT_0393,Rail Pad,30,43,4,5,rural,high,good,High
+FIT_0394,Elastic Rail Clip,50,35,11,2,coastal,medium,good,High
+FIT_0395,Elastic Rail Clip,17,91,15,3,rural,medium,minor,Medium
+FIT_0396,Liner,60,55,5,1,urban,medium,good,High
+FIT_0397,Rail Pad,67,46,3,1,coastal,medium,minor,High
+FIT_0398,Elastic Rail Clip,45,89,10,3,coastal,high,major,High
+FIT_0399,Liner,11,28,3,3,rural,high,major,High
+FIT_0400,Elastic Rail Clip,60,86,8,4,urban,medium,major,High
+FIT_0401,Liner,52,96,11,5,rural,medium,major,High
+FIT_0402,Rail Pad,31,65,7,1,coastal,medium,major,High
+FIT_0403,Elastic Rail Clip,41,105,6,5,rural,low,minor,High
+FIT_0404,Liner,27,71,6,5,urban,low,minor,High
+FIT_0405,Elastic Rail Clip,40,72,15,1,rural,medium,good,Medium
+FIT_0406,Rail Pad,49,46,14,1,rural,low,minor,High
+FIT_0407,Elastic Rail Clip,32,38,5,2,coastal,high,good,High
+FIT_0408,Liner,22,44,11,2,rural,medium,major,High
+FIT_0409,Elastic Rail Clip,35,99,3,6,urban,medium,major,High
+FIT_0410,Elastic Rail Clip,16,21,8,2,coastal,low,major,High
+FIT_0411,Elastic Rail Clip,15,50,4,1,urban,high,minor,Medium
+FIT_0412,Elastic Rail Clip,34,51,5,5,coastal,medium,minor,High
+FIT_0413,Elastic Rail Clip,42,77,3,0,coastal,low,minor,Medium
+FIT_0414,Liner,39,42,9,0,rural,medium,major,High
+FIT_0415,Liner,59,77,7,4,rural,medium,good,High
+FIT_0416,Liner,27,55,6,4,coastal,low,minor,High
+FIT_0417,Liner,8,116,6,6,urban,medium,minor,High
+FIT_0418,Elastic Rail Clip,42,50,12,0,urban,medium,major,High
+FIT_0419,Liner,68,86,6,6,rural,low,major,High
+FIT_0420,Liner,32,48,9,4,rural,high,minor,High
+FIT_0421,Elastic Rail Clip,14,48,11,2,coastal,low,major,High
+FIT_0422,Liner,7,36,2,3,coastal,medium,major,High
+FIT_0423,Elastic Rail Clip,25,25,3,5,rural,medium,major,High
+FIT_0424,Rail Pad,26,111,5,6,rural,medium,major,High
+FIT_0425,Elastic Rail Clip,64,28,15,0,urban,high,major,High
+FIT_0426,Elastic Rail Clip,6,57,15,6,coastal,high,minor,High
+FIT_0427,Liner,52,111,9,1,rural,high,good,High
+FIT_0428,Rail Pad,43,102,5,4,coastal,medium,good,High
+FIT_0429,Rail Pad,14,94,12,3,coastal,low,major,High
+FIT_0430,Elastic Rail Clip,16,55,12,5,coastal,high,good,High
+FIT_0431,Rail Pad,13,64,1,1,coastal,medium,good,Low
+FIT_0432,Rail Pad,42,100,6,5,coastal,medium,good,High
+FIT_0433,Rail Pad,36,59,4,5,coastal,low,good,High
+FIT_0434,Liner,18,59,11,4,urban,medium,major,High
+FIT_0435,Elastic Rail Clip,51,35,14,5,rural,medium,good,High
+FIT_0436,Elastic Rail Clip,36,49,15,5,rural,high,major,High
+FIT_0437,Elastic Rail Clip,54,87,12,6,rural,low,good,High
+FIT_0438,Rail Pad,56,34,15,2,coastal,high,minor,High
+FIT_0439,Rail Pad,29,120,3,4,rural,low,good,High
+FIT_0440,Rail Pad,61,92,6,6,rural,medium,major,High
+FIT_0441,Elastic Rail Clip,49,30,13,2,urban,high,good,High
+FIT_0442,Liner,38,66,1,1,rural,low,good,Medium
+FIT_0443,Liner,63,96,7,0,urban,high,major,High
+FIT_0444,Rail Pad,21,120,11,3,rural,low,minor,Medium
+FIT_0445,Elastic Rail Clip,25,60,2,3,rural,high,good,Medium
+FIT_0446,Liner,25,118,11,6,urban,high,major,High
+FIT_0447,Liner,68,58,15,6,coastal,high,major,High
+FIT_0448,Liner,65,85,1,2,coastal,low,minor,High
+FIT_0449,Elastic Rail Clip,55,38,14,4,coastal,medium,major,High
+FIT_0450,Rail Pad,8,26,11,1,rural,high,minor,Medium
+FIT_0451,Liner,50,91,6,2,urban,high,good,High
+FIT_0452,Rail Pad,44,100,5,2,urban,low,minor,Medium
+FIT_0453,Liner,47,23,9,3,urban,low,good,Medium
+FIT_0454,Elastic Rail Clip,42,53,1,3,rural,high,good,Medium
+FIT_0455,Liner,68,94,9,2,coastal,high,major,High
+FIT_0456,Elastic Rail Clip,44,96,7,2,urban,low,minor,Medium
+FIT_0457,Rail Pad,72,74,5,2,rural,medium,minor,High
+FIT_0458,Liner,71,101,11,0,urban,low,good,High
+FIT_0459,Rail Pad,59,76,7,1,rural,medium,major,High
+FIT_0460,Liner,28,52,1,5,urban,low,minor,High
+FIT_0461,Liner,46,119,6,6,rural,medium,minor,High
+FIT_0462,Rail Pad,36,27,6,4,coastal,high,minor,High
+FIT_0463,Liner,70,90,11,5,coastal,medium,major,High
+FIT_0464,Rail Pad,37,116,3,2,coastal,high,good,High
+FIT_0465,Elastic Rail Clip,62,36,10,1,rural,medium,minor,High
+FIT_0466,Liner,26,92,13,3,rural,medium,good,Medium
+FIT_0467,Elastic Rail Clip,64,25,13,1,coastal,high,minor,High
+FIT_0468,Elastic Rail Clip,22,59,14,4,coastal,high,good,High
+FIT_0469,Rail Pad,60,118,1,4,urban,low,minor,High
+FIT_0470,Elastic Rail Clip,64,56,11,1,coastal,medium,minor,High
+FIT_0471,Elastic Rail Clip,40,69,15,2,rural,low,good,Medium
+FIT_0472,Liner,44,72,10,5,urban,low,major,High
+FIT_0473,Liner,55,59,14,1,rural,low,minor,High
+FIT_0474,Elastic Rail Clip,32,113,6,5,rural,low,minor,High
+FIT_0475,Rail Pad,70,31,2,1,rural,high,major,High
+FIT_0476,Rail Pad,6,106,3,0,rural,medium,major,High
+FIT_0477,Elastic Rail Clip,66,86,13,3,urban,medium,major,High
+FIT_0478,Elastic Rail Clip,72,38,11,4,coastal,medium,minor,High
+FIT_0479,Liner,47,37,15,0,rural,medium,major,High
+FIT_0480,Rail Pad,20,28,4,3,rural,high,good,Medium
+FIT_0481,Elastic Rail Clip,66,111,7,1,rural,medium,major,High
+FIT_0482,Elastic Rail Clip,7,101,11,4,rural,medium,major,High
+FIT_0483,Elastic Rail Clip,15,27,13,5,urban,medium,major,High
+FIT_0484,Elastic Rail Clip,10,88,4,5,rural,low,major,High
+FIT_0485,Elastic Rail Clip,12,73,15,6,rural,medium,major,High
+FIT_0486,Rail Pad,50,82,1,2,rural,medium,minor,High
+FIT_0487,Elastic Rail Clip,28,107,2,2,urban,low,minor,Medium
+FIT_0488,Liner,26,16,11,0,coastal,medium,major,High
+FIT_0489,Liner,7,46,8,3,rural,low,minor,Medium
+FIT_0490,Rail Pad,17,64,11,1,urban,high,major,High
+FIT_0491,Liner,52,44,11,2,urban,high,minor,High
+FIT_0492,Rail Pad,50,82,4,2,urban,low,good,High
+FIT_0493,Elastic Rail Clip,13,118,15,3,rural,low,minor,Medium
+FIT_0494,Liner,20,27,13,4,rural,high,minor,High
+FIT_0495,Elastic Rail Clip,45,55,15,3,coastal,high,major,High
+FIT_0496,Liner,40,96,7,1,rural,low,major,High
+FIT_0497,Liner,50,41,13,6,rural,medium,good,High
+FIT_0498,Rail Pad,13,30,14,5,coastal,low,good,High
+FIT_0499,Elastic Rail Clip,55,34,14,2,rural,medium,good,High
+FIT_0500,Elastic Rail Clip,66,54,7,6,rural,low,good,High
