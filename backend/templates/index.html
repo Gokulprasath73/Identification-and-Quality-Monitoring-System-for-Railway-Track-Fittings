@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Track Fitting Risk Prediction</title>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f4f6f8;
+            padding: 40px;
+        }
+        .box {
+            background: white;
+            padding: 25px;
+            width: 400px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px #ccc;
+        }
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-top: 10px;
+        }
+        button {
+            margin-top: 15px;
+            padding: 10px;
+            width: 100%;
+            background: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        pre {
+            background: #eee;
+            padding: 10px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="box">
+    <h2>Track Fitting Risk Prediction</h2>
+
+    <label>Enter Fitting ID</label>
+    <input type="text" id="fittingId" placeholder="FIT_001">
+
+    <button onclick="predictRisk()">Predict Risk</button>
+
+    <pre id="result"></pre>
+</div>
+
+<script>
+function predictRisk() {
+    const fittingId = document.getElementById("fittingId").value;
+
+    fetch("/predict-risk/" + fittingId)
+        .then(res => {
+            if (!res.ok) {
+                throw new Error("Request failed");
+            }
+            return res.json();
+        })
+        .then(data => {
+            document.getElementById("result").textContent =
+                JSON.stringify(data, null, 2);
+        })
+        .catch(err => {
+            console.error(err);
+            document.getElementById("result").textContent =
+                "Error connecting to backend";
+        });
+}
+</script>
+
+</body>
+</html>
